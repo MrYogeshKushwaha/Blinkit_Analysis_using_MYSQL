@@ -27,6 +27,7 @@ This project involves analyzing Blinkit's business data to gain actionable insig
 
 - **SQL**: For querying and analyzing data.
 - **Database Management System**: To handle datasets and execute SQL commands.
+- **MySQL**: Database management for storing and processing data.
 
 
 ## Results and Insights
@@ -36,7 +37,7 @@ Key takeaways from the analysis include:
 - Top-performing products based on orders and revenue.
 - Customer spending patterns and late delivery insights.
 
-## Contact us
+## Contact 
  
 - **Email**: [mryogeshkushwaha@gmail.com](mailto:mryogeshkushwaha@gmail.com)  
 - **GitHub**: [@code_with_yogesh](https://github.com/code_with_yogesh)  
