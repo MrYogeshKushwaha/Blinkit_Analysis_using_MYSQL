@@ -41,7 +41,7 @@ Key takeaways from the analysis include:
  
 - **Email**: [mryogeshkushwaha@gmail.com](mailto:mryogeshkushwaha@gmail.com)  
 - **Instagram**: [@code_with_yogesh](https://github.com/code_with_yogesh)  
-- **LinkedIn**: [@MrYogeshKushwaha](https://linkedin.com/in/mryogeshkushwaha)
+- **LinkedIn**: [@yogeshkushwaha-offical](https://linkedin.com/in/yogeshkushwaha-offical)
 
 ## Thank You
 
