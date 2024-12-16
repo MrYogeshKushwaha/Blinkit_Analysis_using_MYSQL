@@ -40,8 +40,8 @@ Key takeaways from the analysis include:
 ## Contact 
  
 - **Email**: [mryogeshkushwaha@gmail.com](mailto:mryogeshkushwaha@gmail.com)  
-- **Instagram**: [@code_with_yogesh](https://github.com/code_with_yogesh)  
-- **LinkedIn**: [@yogeshkushwaha-offical](https://linkedin.com/in/yogeshkushwaha-offical)
+- **Instagram**: [@code_with_yogesh](https://instagram.com/code_with_yogesh)  
+- **LinkedIn**: [@yogeshkushwaha-offcial](https://www.linkedin.com/in/yogeshkushwaha-offcial)
 
 ## Thank You
 
